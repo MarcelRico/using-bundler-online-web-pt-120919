@@ -1,1 +1,1 @@
-require_relative '../bundler'
+require 'bundler/setup'
